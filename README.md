@@ -1,4 +1,4 @@
-# cli3demo
+# fanfou
 
 ## Project setup
 ```
